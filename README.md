@@ -9,13 +9,13 @@ QadirDeveloper/QadirDeveloper is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!---
-ahmaddeveloper17/ahmaddeveloper17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QadirDeveloper/QadirDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----><h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
+---><h1 align="center">Hi 👋, I'm Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV724M4QSVD6ts7BHGXbmsUAl-Mv055jiMw&usqp=CAU"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddeveloper17&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddeveloper17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=QadirDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="QadirDeveloper" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
